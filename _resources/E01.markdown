@@ -1,0 +1,50 @@
+---
+#layout: resource
+title: "Exam #01"
+resource: 01
+---
+
+<div class="heading3"> Sample Exam </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1sWNKV6Eo4qMSnA2t6ah8EULDsAWqRobH/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/E01.png" alt="Sample Exam slides" >
+      <figcaption class="thumblink-caption"> Exam #01 </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1gM8S56852nvKG5UxupPUlVNnBzq_XNyF/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/E01b.png" alt="Exam soln. slides" >
+      <figcaption class="thumblink-caption"> Exam #01 Solution </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Other Materials
+</div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1xPDEULGCFnd9zkEp5giVqFvRVDKp56rL/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/E01c.png" alt="Problem Rubric" >
+      <figcaption class="thumblink-caption"> Graded Prob. (Rubric) </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+
+<p> Convenient vs tilted vs decomposition </p>
+<p> solution to quiz </p>
+<p> traffic light video </p>

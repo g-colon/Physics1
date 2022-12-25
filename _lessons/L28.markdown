@@ -1,0 +1,24 @@
+---
+#layout: lesson
+title: "Work-Kinetic Energy Theorem"
+lesson: 28
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/18ZNpI8omBOHXH2zubt0y2ySx9vj_tKVO/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L28.png" alt="Work-KE slides" >
+      <figcaption class="thumblink-caption"> Work-Kinetic Energy Thm </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

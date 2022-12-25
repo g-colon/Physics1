@@ -1,0 +1,47 @@
+---
+#layout: lesson
+title: "Dynamics: Uniform Circular Motion"
+lesson: 19
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1zOxZ_-4EYXzgp-g2TShelmN4yzfFnybT/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L19.png" alt="centripetal force slides" >
+      <figcaption class="thumblink-caption"> UCM, Centripetal Force </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1SR9AROFk2pzs4GH_97PQXgmWKeYsvauH/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L19b.png" alt="19 appendix slides" >
+      <figcaption class="thumblink-caption"> Lec 19 Appendix </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h19_Centripetal.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H19.png" alt="UCM prob image" >
+      <figcaption class="thumblink-caption"> UCM Practice </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

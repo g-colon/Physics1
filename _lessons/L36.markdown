@@ -1,0 +1,40 @@
+---
+#layout: lesson
+title: "Concluding Remarks and Review"
+lesson: 36
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1loS5YfRWYlSyU1CZNEWLcMKLjMH9hEd_/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L36.png" alt="Review slides" >
+      <figcaption class="thumblink-caption"> Remarks & Review </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h36_Review.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H36.png" alt="Review practice" >
+      <figcaption class="thumblink-caption"> Review Practice </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

@@ -1,0 +1,40 @@
+---
+#layout: lesson
+title: "Conservation of Momentum"
+lesson: 32
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1ISAQLAjrK2u6_wtKUHqjZO2ip1r0Cn4a/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L32.png" alt="momentum conservation slides" >
+      <figcaption class="thumblink-caption"> Conservation of Momentum </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h32_Momentum.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H32.png" alt="mom. cons. practice" >
+      <figcaption class="thumblink-caption"> Mom. Cons. Practice </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

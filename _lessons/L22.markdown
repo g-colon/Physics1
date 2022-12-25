@@ -1,0 +1,47 @@
+---
+#layout: lesson
+title: "Static Equilibrium"
+lesson: 22
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1KeQ_z6GzS3j1R-clcEsjhAlT8imcwvN1/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L22.png" alt="static equil. slides" >
+      <figcaption class="thumblink-caption"> Static Equilibrum </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1LpO-lDqeLZt-qk7hzwlJgXsjDtzpLTc8/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L22b.png" alt="c.o.m. appendix slides" >
+      <figcaption class="thumblink-caption"> Torque & C.o.M Appendix </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h22_Equilibrium.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H22.png" alt="equil practice image" >
+      <figcaption class="thumblink-caption"> Equilibrium Practice </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

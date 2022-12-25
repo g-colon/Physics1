@@ -1,0 +1,54 @@
+---
+#layout: lesson
+title: "Newton's Laws, Tension and Defining System"
+lesson: 14
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1l52As4Yfn_xsiQCZTKd46CFI85yl2f_F/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L14.png" alt="tension slides" >
+      <figcaption class="thumblink-caption"> Tension/Def. System </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1OINiPcapYDkHIN0xd12JpzbOuaImIZZp/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L14b.png" alt="14 appendix slides" >
+      <figcaption class="thumblink-caption"> Lec 14 Appendix </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h14.1_TensionSystem.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H14.png" alt="practice prob image" >
+      <figcaption class="thumblink-caption"> Tension Practice </figcaption>
+    </figure>
+  </a>
+
+  <a href="{{site.baseurl}}/handouts/h14.2_TensionSystemPractice.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H14b.png" alt="worksheet image" >
+      <figcaption class="thumblink-caption"> Ropes/Pulley Worksheet </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

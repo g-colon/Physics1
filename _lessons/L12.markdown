@@ -1,0 +1,40 @@
+---
+#layout: lesson
+title: "Dynamics: Mass, Weight, Apparent Weight"
+lesson: 12
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1Bo79rz7xnCZTRf70s243r_N5bTmiEsEa/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L12.png" alt="apparent weight slides" >
+      <figcaption class="thumblink-caption"> Apparent Weight </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h12_ApparentWeight.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H12.png" alt="apparent weight practice" >
+      <figcaption class="thumblink-caption"> Apparent Weight Practice </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

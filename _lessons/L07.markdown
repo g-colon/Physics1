@@ -1,0 +1,31 @@
+---
+#layout: lesson
+title: "Kinematic Variables"
+lesson: 07
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/14TN3_U8-_D6sXz3UHnFcKU5k8zBma7bu/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L07.png" alt="1D kinematics slides" >
+      <figcaption class="thumblink-caption"> 1D Kinematics </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1UZb7DLarz5-kxTGdnR4wyehGLSnewCDW/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L07b.png" alt="07 appendix slides" >
+      <figcaption class="thumblink-caption"> Lec 07 Appendix </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

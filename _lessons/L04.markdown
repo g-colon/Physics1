@@ -1,0 +1,47 @@
+---
+#layout: lesson
+title: "Unit Vectors; Intro to Forces"
+lesson: 04
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1nOcwpsqZhUA4IwzyYhpIO_yoDaFIVo6y/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L04.png" alt="intro forces slides" >
+      <figcaption class="thumblink-caption"> Unit Vectors; Intro to Forces </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h04_vector_add.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H04b.png" alt="vector worksheet image" >
+      <figcaption class="thumblink-caption"> Vector Worksheet </figcaption>
+    </figure>
+  </a>
+
+  <a href="{{site.baseurl}}/handouts/h04_ForceCatalog.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H04.png" alt="force catalog image" >
+      <figcaption class="thumblink-caption"> Force Catalog </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

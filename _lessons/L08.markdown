@@ -1,0 +1,54 @@
+---
+#layout: lesson
+title: "Constant Acceleration Kinematics"
+lesson: 08
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1D-gOhx0U-ArKDC20lzEfVD0jhM90MTyx/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L08.png" alt="Constant Accel slides" >
+      <figcaption class="thumblink-caption"> Const. Accel. Kinematics </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1_DgVjP5gQf-MkiEikHT9RfKeIMhQxR3b/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L08b.png" alt="08 appendix slides" >
+      <figcaption class="thumblink-caption"> Lec 08 Appendix </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h08_Kinematics_acceleration.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H08b.png" alt="kinematics practice image" >
+      <figcaption class="thumblink-caption"> Kinematics Practice </figcaption>
+    </figure>
+  </a>
+
+  <a href="{{site.baseurl}}/handouts/h08_Kinematics_acceleration_info.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H08.png" alt="kinematic equations image" >
+      <figcaption class="thumblink-caption"> Kinematic Equations </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

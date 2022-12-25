@@ -1,0 +1,47 @@
+---
+#layout: lesson
+title: "Newton's 2nd Law"
+lesson: 11
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1YicR5nO5APw7WjBW8ctyD3VBLfKwhpKi/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L11.png" alt="N's 2nd Law slides" >
+      <figcaption class="thumblink-caption"> Newton's 2nd Law </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h11_Newtons2nd_info.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H11.png" alt="prob solving image" >
+      <figcaption class="thumblink-caption"> Prob. Solving Steps </figcaption>
+    </figure>
+  </a>
+
+  <a href="{{site.baseurl}}/handouts/h11_Newtons2nd.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H11b.png" alt="N's 2nd practice image" >
+      <figcaption class="thumblink-caption"> N's 2nd Law Practice </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

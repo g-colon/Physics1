@@ -1,0 +1,40 @@
+---
+#layout: lesson
+title: "Constant Acceleration: Free-Fall"
+lesson: 10
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1RihBpNGjalglmJMur0ta7Y-sh8AWPXjU/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L10.png" alt="free fall slides" >
+      <figcaption class="thumblink-caption"> Kinematics: Free-Fall </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h10_freefall.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H10.png" alt="free fallpractice" >
+      <figcaption class="thumblink-caption"> Free-Fall Practice </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

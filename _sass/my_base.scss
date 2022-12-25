@@ -1,0 +1,426 @@
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+/**
+ * Basic styling
+ */
+body {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: $text-color;
+  background-color: $background-color;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+     -moz-font-feature-settings: "kern" 1;
+       -o-font-feature-settings: "kern" 1;
+          font-feature-settings: "kern" 1;
+  font-kerning: normal;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+  margin-bottom: calc($spacing-unit / 2);
+}
+
+/**
+ * Homepage headings
+ */
+.home-h2 {
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: bold;
+
+    color: darken($grey-color, 10%);
+    margin-bottom: 1.0rem;
+    text-rendering: optimizeLegibility;
+}
+
+/**
+ * Lesson headings
+ */
+.heading2 {  //used in Lesson layout
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  text-align:center;
+
+  margin-bottom: .5rem;
+  font-weight: bold;
+  line-height: 1.25;
+  color: $grey-color;
+  text-rendering: optimizeLegibility;
+
+}
+
+.heading3 {
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+  text-align:center;
+  border-bottom: 2px solid $grey-color;
+  padding-bottom: 4pt;
+
+  margin-bottom: .5rem;
+  font-weight: bold;
+  line-height: 1.25;
+  color: $grey-color;
+  text-rendering: optimizeLegibility;
+}
+
+
+/**
+ * `main` element
+ */
+main {
+  display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
+}
+
+
+
+/**
+ * Images
+ */
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+
+
+/**
+ * Figures
+ */
+figure > img {
+  display: block;
+}
+
+figcaption {
+  font-size: $small-font-size;
+}
+
+
+
+/**
+ * Lists
+ */
+ul, ol {
+  margin-left: $spacing-unit;
+}
+
+li {
+  > ul,
+  > ol {
+    margin-bottom: 0;
+  }
+}
+
+
+
+/**
+ * Headings
+ */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: $base-font-weight;
+}
+
+
+
+/**
+ * Links
+ */
+a {
+  color: $brand-color;
+  text-decoration: none;
+
+  &:visited {
+    color: darken($brand-color, 15%);
+  }
+
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+  }
+
+  .social-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
+}
+
+
+/**
+ * Blockquotes
+ */
+blockquote {
+  color: $grey-color;
+  border-left: 4px solid $grey-color-light;
+  padding-left: calc($spacing-unit / 2);
+  /** @include relative-font-size(1.125); */
+  letter-spacing: -1px;
+  font-style: italic;
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+
+
+/**
+ * Code formatting
+ */
+pre,
+code {
+  /** @include relative-font-size(0.9375); */
+  border: 1px solid $grey-color-light;
+  border-radius: 3px;
+  background-color: #eef;
+}
+
+code {
+  padding: 1px 5px;
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+
+
+/**
+ * Wrapper
+ */
+.wrapper {
+  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+  @extend %clearfix;
+
+  /**
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+    padding-right: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+  } */
+}
+
+
+
+/**
+ * Clearfix
+ */
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+/**
+ * Icons
+ */
+
+.svg-icon {
+    width: 22px;
+    height: 16px;
+    display: inline-block;
+    fill: #{$grey-color};
+    padding-right: 5px;
+    vertical-align: text-top;
+}
+
+.social-media-list {
+  li + li {
+    padding-top: 5px;
+  }
+}
+
+
+
+/**
+ * Tables
+ */
+table.syllabus{
+    border:0;
+    //border-spacing: 10px;
+    font-size: .95rem;  //1rem is ~16px
+    width: 95%; //max-content;
+    margin-bottom: 1rem;
+
+  tr, td, th{
+      padding: .1rem .35rem;
+      background-color: inherit;
+      //border: 0;
+      border-bottom: 2px solid $grey-color-light;      
+      text-align:left;
+      //flex-grow: 1;
+  }
+}
+
+table.syllabus a { 
+    color: $theme-color; //$brand-color
+  text-decoration: none;
+
+  &:hover {
+    color: $theme-color;
+    text-decoration: underline;
+  }
+
+}
+
+// table.syllabus tbody tr td, table.syllabus tbody tr th{
+//   padding: .1rem;
+//   background-color: inherit;
+//   //border: 0;
+//   border-bottom: 2px solid $grey-color-light;
+//   text-align:left;
+//   //flex-grow: 1;
+// }
+
+table {
+//   margin-bottom: $spacing-unit;
+//   width: 100%;
+//   text-align: $table-text-align;
+  color: lighten($text-color, 18%);
+  border-collapse: collapse;
+  border: 1px solid $grey-color-light;
+//   tr {
+//     &:nth-child(even) {
+//       background-color: lighten($grey-color-light, 6%);
+//     }
+//   }
+//   th, td {
+//     padding: ($spacing-unit / 3) ($spacing-unit / 2);
+//   }
+//   th {
+//     background-color: lighten($grey-color-light, 3%);
+//     border: 1px solid darken($grey-color-light, 4%);
+//     border-bottom-color: darken($grey-color-light, 12%);
+//   }
+//   td {
+//     border: 1px solid $grey-color-light;
+//   }
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/**
+ * Creating a Flexbox container on webpage to have a side bar and a main content
+ */
+.page-content{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.page-content article{
+    margin:0 1em;
+    flex:1;
+}
+
+/**
+ * Thumbnails
+ */
+
+.thumb_container{  //container for thumbs
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    //align-content: space-around;  //vertical
+    justify-content: space-evenly;  //horizontal
+    padding-top: .9em;
+}
+
+.thumb_container a {
+    text-decoration: none;
+    
+    &:hover {
+	color: $theme-color; //$brand-color; $theme-color
+	text-decoration: underline;
+	.thumblink-img {border: 1px solid black; }
+	.thumblink-img-portrait {border: 1px solid black; }
+    }
+}
+
+.thumblink{
+  text-align:center;
+  vertical-align: top;
+  //padding: 1rem 2rem 0;
+}
+
+.thumblink-caption {
+    padding-top: 0.5em;
+    text-align: center;
+}
+
+.thumblink-img {
+    width: 170px;
+    margin: 0;
+    box-shadow: 4px 4px 6px -2px rgba(136, 136, 136, 0.65);
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+
+//     &:hover {
+//         border: 1px solid black;
+//     }
+}
+
+.thumblink-img-portrait {
+    height: 170px;
+    margin: 0;
+    box-shadow: 4px 4px 6px -2px rgba(136, 136, 136, 0.65);
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+}
+
+
+/**
+ * Posts
+ */
+.post-header {
+  margin-bottom: $spacing-unit;
+}
+
+.post-title {
+  letter-spacing: -1px;
+  line-height: 1;
+}
+
+.post-content {
+  margin-bottom: $spacing-unit;
+
+}

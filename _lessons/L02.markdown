@@ -1,0 +1,47 @@
+---
+#layout: lesson
+title: "Trig Review; Vectors: Addition"
+lesson: 02
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1Fps6rhyhATlWKGP08pU9xDklOVNQr0ko/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L02.png" alt="trig review slides" >
+      <figcaption class="thumblink-caption"> Trig Review; Vector Addition </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h02_AlgTrig_cheat_sheet.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/H02.png" alt="alg/trig sheet" >
+      <figcaption class="thumblink-caption"> Alg/Trig Cheat Sheet </figcaption>
+    </figure>
+  </a>
+
+  <a href="{{site.baseurl}}/handouts/h02_Trig_Cheat_Sheet.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/H02b.png" alt="trig sheet" >
+      <figcaption class="thumblink-caption"> Trigonometry Cheat Sheet </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

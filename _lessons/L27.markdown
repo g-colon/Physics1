@@ -1,0 +1,24 @@
+---
+#layout: lesson
+title: "Intro to Work & Energy; Dot Product"
+lesson: 27
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1HhmVCd5WVv0DnmoeVJXfzlbVWgUYMlor/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L27.png" alt="Work, dot product slides" >
+      <figcaption class="thumblink-caption"> Energy, Work; Dot Product </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

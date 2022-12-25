@@ -1,0 +1,24 @@
+---
+#layout: resource
+title: "Exam #03"
+resource: 03
+---
+
+<div class="heading3"> Sample Exam </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1ndldphEylV0h6DpDfOilZ7_f4btSTKal/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L31.png" alt="Impulse-momentum slides" >
+      <figcaption class="thumblink-caption"> Impulse & Momentum </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

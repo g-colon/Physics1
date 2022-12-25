@@ -1,0 +1,191 @@
+/**
+ * Site header
+ */
+
+.site-header {
+  border-top: 2px solid $grey-color-light;
+  border-bottom: 4px solid $grey-color-dark;
+  padding: 10px 0; //1rem 0
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: start;
+}
+
+.site-info{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: baseline;
+    justify-content: start;
+    //flex: 3;
+    align-self: center;
+}
+
+.site-title {
+    float: left;
+    //margin-bottom: 0;
+    font-size: 2.6rem;
+    margin:0;
+    padding-right: 1rem;
+    padding-left: 5em;
+    font-weight: bold;
+}
+
+.site-subtitle {
+    font-weight: bold;
+}
+
+.site-title a {
+    color: $theme-color;
+}
+.site-subtitle a {
+    color:$grey-color;
+}
+
+.top-links {
+    display: flex;
+    flex-flow: column;
+    font-size:0.8rem; 
+    //flex: 1 0 100%;
+    text-align: right;
+    float: right;
+    padding-right: 1.5rem;
+    padding-bottom: 0.5rem;
+    align-self: flex-end;
+
+    a{
+	color: $grey-color;
+    }
+}
+
+.site-nav {
+    float: right;
+
+    .menu-icon {  // was displaying a hamburger menu
+    	display: none;
+    }
+    
+    .nav-trigger { //was displaying a checkbox
+	display: none;
+    }
+
+    .page-link {
+	color: $text-color;
+	line-height: $base-line-height;
+
+	// Gaps between nav items, but not on the last one
+	&:not(:last-child) {
+	    margin-right: 20px;    
+	}    
+    }
+        
+}  //.site-nav
+
+/**
+  // These were in the theme: minima, just using the ones I understand...
+.site-header {
+  border-top: 2px solid $grey-color-light;
+  border-bottom: 4px solid $grey-color-dark;
+  // min-height: $spacing-unit * 1.865;
+  // background: green;
+  
+  // Positioning context for the mobile navigation icon
+  // position: relative;
+  // display: flex;
+  // flex-wrap: wrap;
+  // justify-content: space-between;
+  // align-items: start;
+  padding: 1rem 0;
+}
+
+.site-title {
+  // @include relative-font-size(1.625);
+  font-weight: 300;
+  // line-height: $base-line-height * $base-font-size * 2.25;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+
+  &,
+  &:visited {
+    color: $grey-color-dark;
+  }
+}
+
+.site-nav {
+  float: right;
+  //line-height: $base-line-height * $base-font-size * 2.25;
+
+  .nav-trigger {
+      display: none;
+  }
+
+  .menu-icon {
+    display: none;
+  }
+
+  .page-link {
+    color: $text-color;
+    line-height: $base-line-height;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+  }
+*/
+  /**
+  @include media-query($on-palm) {
+    position: absolute;
+    top: 9px;
+    right: $spacing-unit / 2;
+    background-color: $background-color;
+    border: 1px solid $grey-color-light;
+    border-radius: 5px;
+    text-align: right;
+
+    label[for="nav-trigger"] {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 36px;
+      z-index: 2;
+      cursor: pointer;
+    }
+
+    .menu-icon {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 26px;
+      line-height: 0;
+      padding-top: 10px;
+      text-align: center;
+
+      > svg {
+        fill: $grey-color-dark;
+      }
+    }
+
+    input ~ .trigger {
+      clear: both;
+      display: none;
+    }
+
+    input:checked ~ .trigger {
+      display: block;
+      padding-bottom: 5px;
+    }
+
+    .page-link {
+      display: block;
+      padding: 5px 10px;
+
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+      margin-left: 20px;
+    }
+  } */
+//}
+

@@ -1,0 +1,47 @@
+---
+#layout: lesson
+title: "Dynamics: Friction"
+lesson: 15
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1p0FNOiODFhZ0LG11fHIlTLKtmeSo_Ccl/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L15.png" alt="friction slides" >
+      <figcaption class="thumblink-caption"> Friction </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1RjlO86_b4EBeeMWJavFbH7EP0nyftEBV/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L15b.png" alt="15 appendix slides" >
+      <figcaption class="thumblink-caption"> Pre-Lecture 15 </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h15_Friction.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H15.png" alt="friction prob image" >
+      <figcaption class="thumblink-caption"> Friction Practice </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

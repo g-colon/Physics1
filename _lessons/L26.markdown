@@ -1,0 +1,47 @@
+---
+#layout: lesson
+title: "Rotational Dynamics"
+lesson: 26
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1C_FFk9qxDdhK5p3LWvCtkMbJJy-BGm1M/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L26.png" alt="ang. dynamics slides" >
+      <figcaption class="thumblink-caption"> Rotational Dynamics </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1misU51_y5E1w5v1nKhW1p6CbBBcPqKTO/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L26b.png" alt="trans v rot appendix" >
+      <figcaption class="thumblink-caption"> Translation & Rotation </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h26_RotationalDynamics.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H26.png" alt="ang. dynamics practice" >
+      <figcaption class="thumblink-caption"> Rot. Dynamics Practice </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

@@ -1,0 +1,61 @@
+---
+#layout: lesson
+title: "Newton's First Law, FBD"
+lesson: 05
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1Rl2_92Hgly56GhOulsKXNyDM6FTKXriV/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L05.png" alt="N's 1st Law slides" >
+      <figcaption class="thumblink-caption"> Newton's First Law </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1gii_-WdYaJ90Qyq-SnTzPGWjY_lB8BuT/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L05b.png" alt="05 appendix slides" >
+      <figcaption class="thumblink-caption"> Lec 05 Appendix </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h05_FBD_info.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H05a.png" alt="FBD info image" >
+      <figcaption class="thumblink-caption"> FBD Guidelines </figcaption>
+    </figure>
+  </a>
+
+  <a href="{{site.baseurl}}/handouts/h05_FBD_Example.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H05b.png" alt="FBD practice image" >
+      <figcaption class="thumblink-caption"> FBD Practice </figcaption>
+    </figure>
+  </a>
+
+  <a href="{{site.baseurl}}/handouts/h05_ProbSol.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H05c.png" alt="Dynamics problemimage" >
+      <figcaption class="thumblink-caption"> Prob. Solving Steps </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

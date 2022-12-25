@@ -1,0 +1,47 @@
+---
+#layout: lesson
+title: "Projectile Motion"
+lesson: 17
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1eqHQ_VdPB1tQ09xXe_p2QtwXc5RAjDQj/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L17.png" alt="projectiles slides" >
+      <figcaption class="thumblink-caption"> Projectiles </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1xz1DoVACzE_2px2yztocj_hRIaeMmzzp/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L17b.png" alt="17 appendix slides" >
+      <figcaption class="thumblink-caption"> Lec 17 Appendix </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h16_Projectiles.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H16.png" alt="projectile prob image" >
+      <figcaption class="thumblink-caption"> Projectile Practice </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

@@ -1,0 +1,40 @@
+---
+#layout: lesson
+title: "Misc. Problems with Energy & Momentum"
+lesson: 33
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1bPR92oTzefi3k5KEMTiLWMcLFh1pbutW/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L33.png" alt="energy-momentum slides" >
+      <figcaption class="thumblink-caption"> Energy & Momentum Prob. </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h33_EnergyMomentum.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H33.png" alt="energy-mom. cons. practice" >
+      <figcaption class="thumblink-caption"> Energy-Mom. Practice </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

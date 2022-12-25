@@ -1,0 +1,38 @@
+---
+#layout: lesson
+title: "Potential Energy"
+lesson: 29
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1c9g2OeLmkNfaIMBLV88AkbxMOriBI5da/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L29.png" alt="Potential energy slides" >
+      <figcaption class="thumblink-caption"> Potential Energy </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/10-eyMu4mVCSByWbr0xECVqbgw3KAPR3y/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L29b.png" alt="Work-KE appendix slides" >
+      <figcaption class="thumblink-caption"> Work-KE Appendix </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1iZ_qkos67mC4UHFtmpiHrrE6KHrIZnv-/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L29c.png" alt="Work by spring slides" >
+      <figcaption class="thumblink-caption"> Work by a Spring </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

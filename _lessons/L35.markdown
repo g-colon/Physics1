@@ -1,0 +1,40 @@
+---
+#layout: lesson
+title: "Power"
+lesson: 35
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1Ekul4dKtvumgVta3r-IJDKjd4-aE-StQ/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L35.png" alt="power slides" >
+      <figcaption class="thumblink-caption"> Power </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h35_Power.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H35.png" alt="power practice" >
+      <figcaption class="thumblink-caption"> Power Practice </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

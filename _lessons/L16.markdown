@@ -1,0 +1,47 @@
+---
+#layout: lesson
+title: "Motion in 2D, Projectiles"
+lesson: 16
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/18CEdzmnnU4vaeaWnJAQg60vyf7-OEel_/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L16.png" alt="motion in 2D slides" >
+      <figcaption class="thumblink-caption"> 2D Motion, Projectiles </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1VdxttFxthmUyMMVUMxTA6D3m7jJNQaZf/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L16b.png" alt="16 appendix slides" >
+      <figcaption class="thumblink-caption"> Lec 16 Appendix </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h16_Projectiles.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H16.png" alt="projectile prob image" >
+      <figcaption class="thumblink-caption"> Projectile Practice </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

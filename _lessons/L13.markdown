@@ -1,0 +1,24 @@
+---
+#layout: lesson
+title: "Newton's Third Law"
+lesson: 13
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/19do-xXLQWNc5XD80ieNpzTxMlkTknOMf/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L13.png" alt="N's 3rd Law slides" >
+      <figcaption class="thumblink-caption"> Newton's Third Law </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

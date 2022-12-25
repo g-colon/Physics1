@@ -1,0 +1,47 @@
+---
+#layout: lesson
+title: "Newton's 1st Law, Translational Equilibrium"
+lesson: 06
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1H9CIOG5nst1bFfAZ2aZwB2RN5GlDQOaJ/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L06.png" alt="Trans Equilibrium slides" >
+      <figcaption class="thumblink-caption"> Translational Equilibrium </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h06_TransEquilibrium.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H06.png" alt="equilibrium prob image" >
+      <figcaption class="thumblink-caption"> Equilibrium Practice </figcaption>
+    </figure>
+  </a>
+
+  <a href="{{site.baseurl}}/handouts/h06_N1stPractice.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/W06.png" alt="equilibrium worksheet image" >
+      <figcaption class="thumblink-caption"> Equilibrium Worksheet </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

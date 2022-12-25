@@ -1,0 +1,54 @@
+---
+#layout: lesson
+title: "Cross Product and Torque"
+lesson: 20
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1Z0GrXxUAaAT2bUW5H1refq2Gau7JAxPo/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L20.png" alt="cross product slides" >
+      <figcaption class="thumblink-caption"> Cross Product & Torque </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1Ds26NJs_5nGl0uW2QlbnoeWMg-qyi6JD/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L20b.png" alt="cross product appendix slides" >
+      <figcaption class="thumblink-caption"> Cross Product Appendix </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1pjEwE-WbQLZcwJdMNHQ210yYJiy6yG7B/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L20c.png" alt="torque appendix slides" >
+      <figcaption class="thumblink-caption"> Torque Appendix </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h20_TorqueRotationalEquilibrium.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H20.png" alt="torque info image" >
+      <figcaption class="thumblink-caption"> Torque & Equilibrium </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

@@ -1,0 +1,68 @@
+---
+#layout: lesson
+title: "Torque, Rotational Equilibrium, Center of Mass"
+lesson: 21
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/148ZL8vmU_E9ukNYnoGfVL2I67Oo6Nh1N/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L21.png" alt="torque, equilibrium slides" >
+      <figcaption class="thumblink-caption"> Torque & Rot. Equilibrum </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/10ngnGRPOKxoD53aME2EJu_asxSQjGZYD/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L21c.png" alt="c.o.m. slides" >
+      <figcaption class="thumblink-caption"> Center of Mass </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1wR7EQaS50OBawpJFv697POrqoaj7YFp1/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L21b.png" alt="torque appendix slides" >
+      <figcaption class="thumblink-caption"> Torque Def. Appendix </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h21_Torque.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H21.png" alt="torque practice image" >
+      <figcaption class="thumblink-caption"> Torque Practice </figcaption>
+    </figure>
+  </a>
+
+  <a href="{{site.baseurl}}/handouts/h21_TorquePractice.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H21b.png" alt="torque worksheet image" >
+      <figcaption class="thumblink-caption"> Torque Worksheet </figcaption>
+    </figure>
+  </a>
+
+<a href="{{site.baseurl}}/handouts/h20_TorqueRotationalEquilibrium.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H20.png" alt="torque info image" >
+      <figcaption class="thumblink-caption"> Torque & Equilibrium </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

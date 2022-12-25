@@ -1,0 +1,54 @@
+---
+#layout: lesson
+title: "Conservation of Energy"
+lesson: 30
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1Ak9NE0EcRYLy4f8pCICFL8MS2WsK04s8/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L30.png" alt="energy conservation slides" >
+      <figcaption class="thumblink-caption"> Conservation of Energy </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1-y3c-t9gJECr5l4ieGkt4_MBaepEgTHM/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L30b.png" alt="lec 30 appendix" >
+      <figcaption class="thumblink-caption"> Lec 30 Appendix </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h30_ConservativeForces.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H30b.png" alt="energy cons. info" >
+      <figcaption class="thumblink-caption"> Law of Cons. of Energy </figcaption>
+    </figure>
+  </a>
+
+  <a href="{{site.baseurl}}/handouts/h30_EnergyCons.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H30.png" alt="energy cons. practice" >
+      <figcaption class="thumblink-caption"> Energy Cons. Practice </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

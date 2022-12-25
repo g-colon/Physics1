@@ -1,0 +1,17 @@
+#List for navigation list on sidebar
+
+- item_name: "Home"
+  url:       "/"
+
+- item_name: "Syllabus (PDF)"
+  url:       "/syllabus_pdf" 
+  
+- item_name: "Textbook"
+  url:       "/textbook"
+  
+- item_name: "Online Resources"
+  url:       "#"
+
+- item_name: "Contact"
+  url:       "/contact"
+

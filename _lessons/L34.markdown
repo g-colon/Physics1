@@ -1,0 +1,47 @@
+---
+#layout: lesson
+title: "Angular Momentum"
+lesson: 34
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1GMBtaN0vfI1idbakemmJ7npL4Ka4ZySr/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L34.png" alt="ang-momentum slides" >
+      <figcaption class="thumblink-caption"> Angular Momentum </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1SvzIGhzvMucBeXiQVIiHA7sNkroCGoqq/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L34b.png" alt="34 appendix slides" >
+      <figcaption class="thumblink-caption"> Lec 34 Appendix </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h34_AngularMomentum.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H34.png" alt="energy-mom. cons. practice" >
+      <figcaption class="thumblink-caption"> Angular Mom. Practice </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

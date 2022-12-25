@@ -1,0 +1,54 @@
+---
+#layout: lesson
+title: Introduction
+lesson: 01
+---
+
+<div class="heading3"> Lecture Slides </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1JzxWsmtPyJtm2Fd-ePxf4Mx1CPg-k4BS/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L01.png" alt="intro slides" >
+      <figcaption class="thumblink-caption">Introduction </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/10MYLH0M-ibmzCIhwBaewwRqop04b4vzi/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L01.png" alt="general remarks slides" >
+      <figcaption class="thumblink-caption"> General Remarks </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Handouts
+</div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/syllabus.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/syllabus.png" alt="syllabus image" >
+      <figcaption class="thumblink-caption">Syllabus </figcaption>
+    </figure>
+  </a>
+
+  <a href="{{site.baseurl}}/handouts/h01_SolnVsAns.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H01.png" alt="soln vs answer image" >
+      <figcaption class="thumblink-caption"> Solutions vs. Answer </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Lecture Videos
+</div>
+

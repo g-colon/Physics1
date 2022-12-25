@@ -1,0 +1,33 @@
+<div class="side">
+
+  <nav class="side-nav">
+    <ul>
+      {% for list_item in site.data.sidebarlist %}
+      <li><a href="{{site.baseurl}}{{list_item.url}}">{{list_item.item_name}}</a></li>
+      {% endfor %}
+
+      <!-- Prev, Next arrows -->
+      <li class="side-nav-arrows">
+        <div style="width:50%">
+          {% if page.previous.url %}
+            <a href="{{site.baseurl}}{{page.previous.url}}"><img class="nav-arrows"
+	    src="{{site.baseurl}}/images/nav/icon-back-30.png"></a>
+          {% endif %}
+        </div>
+
+	<div style="width:50%" >
+	  {% if page.next.url %}
+            <a href="{{site.baseurl}}{{page.next.url}}"><img class="nav-arrows"
+            src="{{site.baseurl}}/images/nav/icon-fwd-30.png"></a>
+          {% endif %}
+        </div>
+      </li>
+
+      <!-- <li><a href="#">Online Resources</a></li> -->
+      <!-- <li><a href="{{site.baseurl}}/about/">About</a></li> -->
+      <!-- <li><a href="{{site.baseurl}}/contact">Contact</a></li> -->
+      <!-- <li><a href="#">Tokyo</a></li>  -->
+    </ul>
+  </nav>
+    
+</div>
