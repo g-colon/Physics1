@@ -34,7 +34,7 @@ lesson: 34
   <a href="{{site.baseurl}}/handouts/h34_AngularMomentum.pdf" target="_blank">
     <figure class="thumblink">
       <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H34.png" alt="energy-mom. cons. practice" >
-      <figcaption class="thumblink-caption"> Angular Mom. Practice </figcaption>
+      <figcaption class="thumblink-caption"> Angular Momentum <br> Practice </figcaption>
     </figure>
   </a>
 

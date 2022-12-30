@@ -52,3 +52,30 @@ lesson: 01
   Lecture Videos
 </div>
 
+<div class="thumb_container">
+
+  <a href="https://mma.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59c97e84-b07c-4842-b63f-ac1d013638a9" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img"
+    src="{{site.baseurl}}/images/thumbs/panopto_thumb.png"
+    alt="panopto video course objectives" >
+      <figcaption class="thumblink-caption">
+     (MMA credentials needed) <br> Course Objectives </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://mma.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f3815fe9-d062-4e12-ad11-ac1d013bf53a" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img"
+    src="{{site.baseurl}}/images/thumbs/panopto_thumb.png"
+    alt="panopto video additional remarks" >
+      <figcaption class="thumblink-caption">
+     (MMA credentials needed) <br> Additional Remarks </figcaption>
+    </figure>
+  </a>
+
+<div style="width:80%;">
+The above videos are borrowed from the online version of the course during 2020. While a few comments may be outdated, the main points still apply.  
+</div>
+
+</div>
