@@ -66,3 +66,16 @@ lesson: 21
   Lecture Videos
 </div>
 
+<div class="thumb_container">
+
+  <a href="https://mma.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a9ec401f-3a1d-4412-8c52-ac5d00e614ca" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img"
+    src="{{site.baseurl}}/images/thumbs/panopto_thumb.png"
+    alt="panopto video torque review" >
+      <figcaption class="thumblink-caption" style="width: 180px;">
+     (MMA credentials needed) Torque Review </figcaption>
+    </figure>
+  </a>
+
+</div>

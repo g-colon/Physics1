@@ -48,7 +48,7 @@ lesson: 08
 </div>
 
 
-<div class="heading3">
-  Lecture Videos
-</div>
+[//]: <><div class="heading3">
+[//]: <>  Lecture Videos
+[//]: <></div>
 

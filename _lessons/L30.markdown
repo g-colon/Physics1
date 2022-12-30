@@ -52,3 +52,36 @@ lesson: 30
   Lecture Videos
 </div>
 
+<div class="thumb_container">
+
+  <a href="https://mma.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=690dcf2e-4aef-431f-8827-ade6002c9bf3" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img"
+    src="{{site.baseurl}}/images/thumbs/panopto_thumb.png"
+    alt="panopto video conservation of energy" >
+      <figcaption class="thumblink-caption" style="width: 180px;">
+     (MMA credentials needed) Conservation of Energy </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://mma.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3f7c206-58f9-424e-b362-abc3015d53bc" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img"
+    src="{{site.baseurl}}/images/thumbs/panopto_thumb.png"
+    alt="panopto video spring-launch example" >
+      <figcaption class="thumblink-caption" style="width: 180px;">
+     (MMA credentials needed) Spring-Launch Ball Example </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://mma.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dfe8bd87-983d-4986-9cfc-abc4016e96db" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img"
+    src="{{site.baseurl}}/images/thumbs/panopto_thumb.png"
+    alt="panopto video problem hints" >
+      <figcaption class="thumblink-caption" style="width: 180px;">
+     (MMA credentials needed) Hints for Handout Problems </figcaption>
+    </figure>
+  </a>
+
+</div>

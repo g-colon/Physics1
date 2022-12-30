@@ -34,14 +34,14 @@ lesson: 26
   <a href="{{site.baseurl}}/handouts/h26_RotationalDynamics.pdf" target="_blank">
     <figure class="thumblink">
       <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H26.png" alt="ang. dynamics practice" >
-      <figcaption class="thumblink-caption"> Rot. Dynamics Practice </figcaption>
+      <figcaption class="thumblink-caption"> Rotational Dynamics <br> Practice </figcaption>
     </figure>
   </a>
 
 </div>
 
 
-<div class="heading3">
-  Lecture Videos
-</div>
+[//]: <><div class="heading3">
+[//]: <>  Lecture Videos
+[//]: <></div>
 

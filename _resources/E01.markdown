@@ -34,7 +34,7 @@ resource: 01
   <a href="https://drive.google.com/file/d/1xPDEULGCFnd9zkEp5giVqFvRVDKp56rL/view" target="_blank">
     <figure class="thumblink">
       <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/E01c.png" alt="Problem Rubric" >
-      <figcaption class="thumblink-caption"> Graded Prob. (Rubric) </figcaption>
+      <figcaption class="thumblink-caption"> Problem Grading <br> Sample Rubric </figcaption>
     </figure>
   </a>
 
@@ -45,6 +45,37 @@ resource: 01
   Lecture Videos
 </div>
 
-<p> Convenient vs tilted vs decomposition </p>
-<p> solution to quiz </p>
-<p> traffic light video </p>
+<div class="thumb_container">
+
+  <a href="https://mma.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5a0d59d-f9f2-466e-a439-ac47011ebb5c" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img"
+    src="{{site.baseurl}}/images/thumbs/panopto_thumb.png"
+    alt="panopto video Convenient vs tilted vs decomposition" >
+      <figcaption class="thumblink-caption" style="width: 180px;">
+     (MMA credentials needed) Choosing Coord System <br> vs Vector Decomposition </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://mma.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f4855843-2345-4157-996a-acdf00e56375" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img"
+    src="{{site.baseurl}}/images/thumbs/panopto_thumb.png"
+    alt="panopto video Convenient vs tilted vs decomposition" >
+      <figcaption class="thumblink-caption" style="width: 180px;">
+     (MMA credentials needed) Solution to N's 1st Law Quiz </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://mma.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36e668fa-4dd9-4eef-af7e-acd80137c336" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img"
+    src="{{site.baseurl}}/images/thumbs/panopto_thumb.png"
+    alt="panopto video N's 1st" >
+      <figcaption class="thumblink-caption" style="width: 180px;">
+     (MMA credentials needed) Traffic Light Problem </figcaption>
+    </figure>
+  </a>
+  
+</div>
+

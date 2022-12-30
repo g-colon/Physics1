@@ -8,10 +8,18 @@ resource: 04
 
 <div class="thumb_container">
 
-  <a href="https://drive.google.com/file/d/1ndldphEylV0h6DpDfOilZ7_f4btSTKal/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1f6Dbi46jz77Nfx-UetEU9Ivf0fJVfxcB/view" target="_blank">
     <figure class="thumblink">
-      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/L31.png" alt="Impulse-momentum slides" >
-      <figcaption class="thumblink-caption"> Impulse & Momentum </figcaption>
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/E04.png" alt="Sample Exam slides" >
+      <figcaption class="thumblink-caption"> Exam #04 </figcaption>
+    </figure>
+  </a>
+
+
+  <a href="https://drive.google.com/file/d/1k8yWsw-yw65Urx_NMK3KhyTwUvVG4vyc/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/E04b.png" alt="Exam soln. slides" >
+      <figcaption class="thumblink-caption"> Exam #04 Solution </figcaption>
     </figure>
   </a>
 
@@ -19,6 +27,29 @@ resource: 04
 
 
 <div class="heading3">
-  Lecture Videos
+  Other Materials
 </div>
+
+<div class="thumb_container">
+
+  <a href="{{site.baseurl}}/handouts/h30_EnergyCons.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H30.png" alt="energy cons. practice" >
+      <figcaption class="thumblink-caption"> Energy Cons. Practice </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/14o9t6Edih6gGwP1kF6xjxoJ6STLLbK4l/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/E04c.png" alt="equilibrium handout solution" >
+      <figcaption class="thumblink-caption"> Energy Conservation <br> Handout Solution </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+[//]: <><div class="heading3">
+[//]: <>  Lecture Videos
+[//]: <></div>
 
