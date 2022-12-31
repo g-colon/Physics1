@@ -10,7 +10,7 @@
   url:       "/textbook"
   
 - item_name: "Online Resources"
-  url:       "#"
+  url:       "/online_res"
 
 - item_name: "Contact"
   url:       "/contact"
