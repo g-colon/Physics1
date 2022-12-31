@@ -19,8 +19,9 @@ permalink: /contact/
         <b>Office:</b> HA-314A <br>
         <b>email:</b> gcolon@maritime.edu
     </p>
+    <br>
     <p> <b>Education:</b> <br>
-      <ul style="margin-top: -.4em">
+      <ul>
         <li> University of Massachusetts, Amherst, MA <br>
 	     PhD in Physics <br>
 	     Dissertation: "Search for TeV-Scale Gravity Signatures in Final States with Leptons and Jets with the ATLAS detector at <math><msqrt><mi>s</mi></msqrt></math> = 8 TeV at the Large Hadron Collider."
