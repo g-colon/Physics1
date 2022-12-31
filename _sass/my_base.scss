@@ -276,7 +276,7 @@ table.syllabus{
     border:0;
     //border-spacing: 10px;
     font-size: .95rem;  //1rem is ~16px
-    width: 95%; //max-content;
+    width: 98%; //max-content;
     margin-bottom: 1rem;
 
   tr, td, th{
@@ -350,6 +350,22 @@ table {
 .page-content article{
     margin:0 1em;
     flex:1;
+}
+
+/**
+* Columns for Content area (e.g. Contact Info)
+*/
+.page-lcolumn{
+  float: left;
+  width: 25%;
+  //padding-right: 10px;
+}
+
+.page-rcolumn{
+  float: left;
+  width: 75%;
+  padding-left: 10px;
+  //background-color: lightskyblue;
 }
 
 /**
