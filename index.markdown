@@ -28,7 +28,7 @@ title: Lesson Schedule
 </div> 
 
 <div style="margin-bottom: 1rem">
-*Note: Some documents require that you sign in with your MMA account.
+&bull; Note: Some documents require that you sign in with your MMA account.
 </div>
 <div>
 <!-- <p><a href="lessons/l01_introduction.html"> Attempting link 1 </a></p> -->

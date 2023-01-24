@@ -23,7 +23,7 @@ tagline:    ""
 course_name: "Physics I"
 course_num:  "SM&#8209;2123" # &#8209; non-breaking hyphen
 institution:  "Massachusetts Maritime Academy"
-email:      g-colon@example.com
+email:      gcolon@maritime.edu
 description: >- # this means to ignore newlines until "baseurl:"
             Engineering Physics I Syllabus and Resources
             #(for Google search results) and in your feed.xml site description.

@@ -1,0 +1,55 @@
+---
+#layout: resource
+title: "Advanced Topics: Equilibrium in 3D"
+resource: 10
+---
+
+<div class="heading3"> Instruction Materials </div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/191SNTErvAHvBfFHfK0g7V5mGDKcl7_Xb/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/AT01.png" alt="N's 1st in 3D" >
+      <figcaption class="thumblink-caption"> Newton's 1st Law <br> in 3D </figcaption>
+    </figure>
+  </a>
+
+
+  <a href="https://drive.google.com/file/d/191SNTErvAHvBfFHfK0g7V5mGDKcl7_Xb/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/E04b.png" alt="Exam soln. slides" >
+      <figcaption class="thumblink-caption"> Torque in 3D <br> Space Holder </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+<div class="heading3">
+  Other Materials
+</div>
+
+<div class="thumb_container">
+
+  <a href="https://drive.google.com/file/d/1YpX308a0refYi0ZVbFc_apTosdWzo03e/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/AT01b.png" alt="N's 1st in 3D soln" >
+      <figcaption class="thumblink-caption"> Newton's 1st Law <br> in 3D Solution </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://drive.google.com/file/d/14o9t6Edih6gGwP1kF6xjxoJ6STLLbK4l/view" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/E04c.png" alt="equilibrium handout solution" >
+      <figcaption class="thumblink-caption"> Space Holder #02 </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
+[//]: <><div class="heading3">
+[//]: <>  Lecture Videos
+[//]: <></div>
+

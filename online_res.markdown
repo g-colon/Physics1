@@ -4,7 +4,7 @@ title: Online Resources
 permalink: /online_res/
 ---
 
-### page under construction
+<h3 style="text-align: center;"> (page under construction) </h3>
 
 <p> This Physics I webpage is modeled after Prof. Haynes
     <a href="https://weh.maritime.edu/mechanics/" target="_blank"> Mechanics Course website. </a> <br>
