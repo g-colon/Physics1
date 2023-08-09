@@ -38,10 +38,10 @@ lesson: 25
 
 <div class="thumb_container">
 
-  <a href="{{site.baseurl}}/handouts/h24_RotKinematics.pdf" target="_blank">
+  <a href="{{site.baseurl}}/handouts/h25_RotationalDynamics.pdf" target="_blank">
     <figure class="thumblink">
-      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H24.png" alt="ang. kinematics practice" >
-      <figcaption class="thumblink-caption"> Angular Kinematics <br> Practice </figcaption>
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H25.png" alt="ang. dynamics practice" >
+      <figcaption class="thumblink-caption"> Rotational Dynamics <br> Practice </figcaption>
     </figure>
   </a>
 

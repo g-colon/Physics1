@@ -33,7 +33,7 @@ lesson: 06
 
   <a href="{{site.baseurl}}/handouts/h06_N1stPractice.pdf" target="_blank">
     <figure class="thumblink">
-      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/W06.png" alt="equilibrium worksheet image" >
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H06b.png" alt="equilibrium worksheet image" >
       <figcaption class="thumblink-caption"> Equilibrium Worksheet </figcaption>
     </figure>
   </a>

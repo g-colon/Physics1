@@ -31,14 +31,14 @@ lesson: 14
 
 <div class="thumb_container">
 
-  <a href="{{site.baseurl}}/handouts/h14.1_TensionSystem.pdf" target="_blank">
+  <a href="{{site.baseurl}}/handouts/h14_TensionSystem.pdf" target="_blank">
     <figure class="thumblink">
       <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H14.png" alt="practice prob image" >
       <figcaption class="thumblink-caption"> Tension Practice </figcaption>
     </figure>
   </a>
 
-  <a href="{{site.baseurl}}/handouts/h14.2_TensionSystemPractice.pdf" target="_blank">
+  <a href="{{site.baseurl}}/handouts/h14_TensionSystemPractice.pdf" target="_blank">
     <figure class="thumblink">
       <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H14b.png" alt="worksheet image" >
       <figcaption class="thumblink-caption"> Ropes/Pulley Worksheet </figcaption>

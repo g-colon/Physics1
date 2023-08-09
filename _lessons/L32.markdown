@@ -27,7 +27,7 @@ lesson: 32
   <a href="{{site.baseurl}}/handouts/h32_Momentum.pdf" target="_blank">
     <figure class="thumblink">
       <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H32.png" alt="mom. cons. practice" >
-      <figcaption class="thumblink-caption"> Mom. Cons. Practice </figcaption>
+      <figcaption class="thumblink-caption"> Momentum <br> Cons. Practice </figcaption>
     </figure>
   </a>
 

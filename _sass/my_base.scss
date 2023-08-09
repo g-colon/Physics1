@@ -300,6 +300,37 @@ table.syllabus a {
 
 }
 
+// Table for OER book
+table.oer{
+    border:0;
+    //border-spacing: 10px;
+    font-size: .90rem;  //1rem is ~16px
+    width: 94%; //max-content;
+    margin-bottom: 1rem;
+    margin-left:5%;
+
+  tr, td, th{
+      padding: .1rem .35rem;
+      background-color: inherit;
+      //border: 0;
+      border-bottom: 2px solid $grey-color-light;      
+      text-align:left;
+      //flex-grow: 1;
+  }
+}
+
+table.oer a { 
+    color: $theme-color; //$brand-color
+  text-decoration: none;
+
+  &:hover {
+    color: $theme-color;
+    text-decoration: underline;
+  }
+
+}
+
+
 // table.syllabus tbody tr td, table.syllabus tbody tr th{
 //   padding: .1rem;
 //   background-color: inherit;

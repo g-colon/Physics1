@@ -38,6 +38,13 @@ lesson: 21
 
 <div class="thumb_container">
 
+   <a href="{{site.baseurl}}/handouts/h21_RotationalEquilibrium.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H21c.png" alt="torque info image" >
+      <figcaption class="thumblink-caption"> Rotational Equilibrium </figcaption>
+    </figure>
+  </a>
+
   <a href="{{site.baseurl}}/handouts/h21_Torque.pdf" target="_blank">
     <figure class="thumblink">
       <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H21.png" alt="torque practice image" >
@@ -49,13 +56,6 @@ lesson: 21
     <figure class="thumblink">
       <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H21b.png" alt="torque worksheet image" >
       <figcaption class="thumblink-caption"> Torque Worksheet </figcaption>
-    </figure>
-  </a>
-
-<a href="{{site.baseurl}}/handouts/h20_TorqueRotationalEquilibrium.pdf" target="_blank">
-    <figure class="thumblink">
-      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H20.png" alt="torque info image" >
-      <figcaption class="thumblink-caption"> Torque & Equilibrium </figcaption>
     </figure>
   </a>
 

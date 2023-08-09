@@ -27,3 +27,21 @@ permalink: /textbook/
 href="https://phys.libretexts.org/Bookshelves/University_Physics/Book%3A_University_Physics_(OpenStax)"
 target="_blank" style="margin-left:5%"> OpenStax Free Textbook </a>
 
+<p style="margin-left:5%"> Closest match between sections in the course textbook and the OER textbook: </p>
+<div>
+<table class="oer">
+  {% for row in site.data.oer_book %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
+</div> 

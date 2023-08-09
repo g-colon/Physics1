@@ -38,6 +38,13 @@ lesson: 09
     </figure>
   </a>
 
+  <a href="{{site.baseurl}}/handouts/h09_Metric_prefixes.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img" src="{{site.baseurl}}/images/thumbs/H09c.png" alt="Metric Prefixes" >
+      <figcaption class="thumblink-caption"> Metric (SI) Prefixes </figcaption>
+    </figure>
+  </a>
+
 </div>
 
 

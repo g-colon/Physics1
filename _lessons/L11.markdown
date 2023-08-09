@@ -24,7 +24,7 @@ lesson: 11
 
 <div class="thumb_container">
 
-  <a href="{{site.baseurl}}/handouts/h11_Newtons2nd_info.pdf" target="_blank">
+  <a href="{{site.baseurl}}/handouts/h11_Newtons2nd_ProbSol.pdf" target="_blank">
     <figure class="thumblink">
       <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H11.png" alt="prob solving image" >
       <figcaption class="thumblink-caption"> Prob. Solving Steps </figcaption>

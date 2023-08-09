@@ -31,9 +31,9 @@ lesson: 26
 
 <div class="thumb_container">
 
-  <a href="{{site.baseurl}}/handouts/h26_RotationalDynamics.pdf" target="_blank">
+  <a href="{{site.baseurl}}/handouts/h25_RotationalDynamics.pdf" target="_blank">
     <figure class="thumblink">
-      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H26.png" alt="ang. dynamics practice" >
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H25.png" alt="ang. dynamics practice" >
       <figcaption class="thumblink-caption"> Rotational Dynamics <br> Practice </figcaption>
     </figure>
   </a>

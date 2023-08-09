@@ -38,10 +38,10 @@ lesson: 20
 
 <div class="thumb_container">
 
-  <a href="{{site.baseurl}}/handouts/h20_TorqueRotationalEquilibrium.pdf" target="_blank">
+  <a href="{{site.baseurl}}/handouts/h20_TorqueDef_vec.pdf" target="_blank">
     <figure class="thumblink">
       <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H20.png" alt="torque info image" >
-      <figcaption class="thumblink-caption"> Torque & Equilibrium </figcaption>
+      <figcaption class="thumblink-caption"> Torque Definition </figcaption>
     </figure>
   </a>
 
