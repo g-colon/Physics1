@@ -9,9 +9,9 @@ title: Lesson Schedule
 <!-- <h2 style="text-align:center;margin-top: 1rem; font-size:1.5rem; font-weight:bold; color: #828282">{{page.title}} </h2> -->
 
 <p style="padding-top:1em;"> <b> Course Description:</b> </p>
-<p style="margin-left:2%; margin-top: -0.5%"> An introduction to the fundamental principles of physics with an emphasis in rigid-body mechanics.  This course focusses on the classical theory of motion as understood using Newton’s laws and the conservation principles of energy and momentum.
+<p style="margin-left:2%; "> An introduction to the fundamental principles of physics with an emphasis in rigid-body mechanics.  This course focusses on the classical theory of motion as understood using Newton’s laws and the conservation principles of energy and momentum.
 </p>
-<hr class="cd">
+<hr class="cdes">
 
 
 <div class="home-h2"> {{page.title}} </div>
