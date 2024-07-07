@@ -54,6 +54,13 @@ ul, ol, dl, figure,
     text-rendering: optimizeLegibility;
 }
 
+/** Course Description hr */
+hr.cd {
+    border: 1px solid $grey-color-light;
+    width: 98%; //max-content;
+    margin-bottom: 2em;
+}
+
 /**
  * Lesson headings
  */
